@@ -1,0 +1,15 @@
+D:\Projects\C#_Project\Switch_Guide\Switch_Guide\bin\Debug\Switch_Guide.exe.config
+D:\Projects\C#_Project\Switch_Guide\Switch_Guide\bin\Debug\Switch_Guide.exe
+D:\Projects\C#_Project\Switch_Guide\Switch_Guide\bin\Debug\Switch_Guide.pdb
+D:\Projects\C#_Project\Switch_Guide\Switch_Guide\obj\Debug\Switch_Guide.csproj.AssemblyReference.cache
+D:\Projects\C#_Project\Switch_Guide\Switch_Guide\obj\Debug\Switch_Guide.Form1.resources
+D:\Projects\C#_Project\Switch_Guide\Switch_Guide\obj\Debug\Switch_Guide.Properties.Resources.resources
+D:\Projects\C#_Project\Switch_Guide\Switch_Guide\obj\Debug\Switch_Guide.csproj.GenerateResource.cache
+D:\Projects\C#_Project\Switch_Guide\Switch_Guide\obj\Debug\Switch_Guide.csproj.CoreCompileInputs.cache
+D:\Projects\C#_Project\Switch_Guide\Switch_Guide\obj\Debug\Switch_Guide.exe
+D:\Projects\C#_Project\Switch_Guide\Switch_Guide\obj\Debug\Switch_Guide.pdb
+D:\Projects\C#_Project\Switch_Guide\Switch_Guide\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\C#_Project\Switch_Guide\Switch_Guide\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\C#_Project\Switch_Guide\Switch_Guide\obj\Debug\Switch_G.F8342556.Up2Date
+D:\Projects\C#_Project\Switch_Guide\Switch_Guide\bin\Debug\System.CodeDom.dll
+D:\Projects\C#_Project\Switch_Guide\Switch_Guide\bin\Debug\System.CodeDom.xml
